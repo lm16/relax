@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "account":{
+    "phone": 13556538406,
+    "passwd": "zhuce"
   }
 }
